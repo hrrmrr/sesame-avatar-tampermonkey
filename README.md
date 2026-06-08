@@ -9,7 +9,7 @@ Default images are AI-generated profile pics, but can be changed by modifying th
       <img src="https://github.com/user-attachments/assets/18972bef-e07f-45fc-9c97-a5dc2b1bdebb" width="320">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/37ceec93-0951-45aa-9d3a-bc3746bf27f1" width="320">
+      <img src="https://github.com/user-attachments/assets/3f4dfcd0-3e9b-4ea9-bc39-561b84c2455e" width="320">
     </td>
   </tr>
 </table>
