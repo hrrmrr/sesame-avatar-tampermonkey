@@ -14,7 +14,7 @@
 
   // ─── CONFIG ────────────────────────────────────────────────────────────────
   const AVATARS = {
-    Maya:   'https://i.imgur.com/2z0W0DY.png',
+    Maya:   'https://i.imgur.com/qj0Rp2O.png',
     Miles:  'https://i.imgur.com/bEu3ss2.jpeg',
     Simone: 'https://i.imgur.com/Ax8Ycjk.jpeg',
     Charlie:'https://i.imgur.com/5lEbqJ8.jpeg',
